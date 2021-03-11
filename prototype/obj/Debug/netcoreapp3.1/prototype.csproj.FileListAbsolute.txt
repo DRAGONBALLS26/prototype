@@ -1,0 +1,13 @@
+C:\Users\Dragomir\source\repos\prototype\prototype\bin\Debug\netcoreapp3.1\prototype.exe
+C:\Users\Dragomir\source\repos\prototype\prototype\bin\Debug\netcoreapp3.1\prototype.deps.json
+C:\Users\Dragomir\source\repos\prototype\prototype\bin\Debug\netcoreapp3.1\prototype.runtimeconfig.json
+C:\Users\Dragomir\source\repos\prototype\prototype\bin\Debug\netcoreapp3.1\prototype.runtimeconfig.dev.json
+C:\Users\Dragomir\source\repos\prototype\prototype\bin\Debug\netcoreapp3.1\prototype.dll
+C:\Users\Dragomir\source\repos\prototype\prototype\bin\Debug\netcoreapp3.1\prototype.pdb
+C:\Users\Dragomir\source\repos\prototype\prototype\obj\Debug\netcoreapp3.1\prototype.csprojAssemblyReference.cache
+C:\Users\Dragomir\source\repos\prototype\prototype\obj\Debug\netcoreapp3.1\prototype.AssemblyInfoInputs.cache
+C:\Users\Dragomir\source\repos\prototype\prototype\obj\Debug\netcoreapp3.1\prototype.AssemblyInfo.cs
+C:\Users\Dragomir\source\repos\prototype\prototype\obj\Debug\netcoreapp3.1\prototype.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir\source\repos\prototype\prototype\obj\Debug\netcoreapp3.1\prototype.dll
+C:\Users\Dragomir\source\repos\prototype\prototype\obj\Debug\netcoreapp3.1\prototype.pdb
+C:\Users\Dragomir\source\repos\prototype\prototype\obj\Debug\netcoreapp3.1\prototype.genruntimeconfig.cache
